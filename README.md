@@ -5,3 +5,10 @@ I'm glad to share those projects that was so fun to developed and I also learned
 All the data are ficticius.**
 
 ![dash](https://github.com/user-attachments/assets/905391cf-54fb-49bb-9fe4-a7512f2bbc3e)
+
+![ew](https://github.com/user-attachments/assets/e1be525c-1090-490f-92e2-463c41576529)
+
+![rh](https://github.com/user-attachments/assets/1eed6f3e-fca0-4c73-b28d-5c12eb558571)
+
+![acoes](https://github.com/user-attachments/assets/eeec4113-e095-43b5-b236-fda4af949854)
+
