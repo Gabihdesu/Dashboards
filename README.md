@@ -12,3 +12,6 @@ All the data are ficticius.**
 
 ![acoes](https://github.com/user-attachments/assets/eeec4113-e095-43b5-b236-fda4af949854)
 
+![linguageum-M](https://github.com/user-attachments/assets/194734f0-4878-4225-b109-0536c0dd5c16)
+
+![dash-M](https://github.com/user-attachments/assets/754ccabf-d978-458c-9dfd-d9bc86525ab2)
