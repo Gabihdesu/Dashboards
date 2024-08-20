@@ -15,3 +15,7 @@ All the data are ficticius.**
 ![linguageum-M](https://github.com/user-attachments/assets/194734f0-4878-4225-b109-0536c0dd5c16)
 
 ![dash-M](https://github.com/user-attachments/assets/754ccabf-d978-458c-9dfd-d9bc86525ab2)
+
+![clie](https://github.com/user-attachments/assets/6f818bc4-4491-429e-872b-da712316ad2d)
+
+![rs](https://github.com/user-attachments/assets/bae1fe89-ee23-4b1e-8740-0ec5ecc73d00)
