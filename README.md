@@ -3,6 +3,9 @@ This is my projects from a course that i've been studying about the Software Pow
 I'm glad to share those projects that was so fun to developed and I also learned a lot of new things with it.
 
 All the data are ficticius.**
+![clie](https://github.com/user-attachments/assets/6f818bc4-4491-429e-872b-da712316ad2d)
+
+![rs](https://github.com/user-attachments/assets/bae1fe89-ee23-4b1e-8740-0ec5ecc73d00)
 
 ![dash](https://github.com/user-attachments/assets/905391cf-54fb-49bb-9fe4-a7512f2bbc3e)
 
@@ -15,7 +18,3 @@ All the data are ficticius.**
 ![linguageum-M](https://github.com/user-attachments/assets/194734f0-4878-4225-b109-0536c0dd5c16)
 
 ![dash-M](https://github.com/user-attachments/assets/754ccabf-d978-458c-9dfd-d9bc86525ab2)
-
-![clie](https://github.com/user-attachments/assets/6f818bc4-4491-429e-872b-da712316ad2d)
-
-![rs](https://github.com/user-attachments/assets/bae1fe89-ee23-4b1e-8740-0ec5ecc73d00)
