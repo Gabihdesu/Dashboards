@@ -3,6 +3,9 @@ This is my projects from a course that i've been studying about the Software Pow
 I'm glad to share those projects that was so fun to developed and I also learned a lot of new things with it.
 
 All the data are ficticius.**
+
+![serie_temporal](https://github.com/user-attachments/assets/da96b77b-6567-4d3f-9d36-54bcaf6b79bd)
+
 ![clie](https://github.com/user-attachments/assets/6f818bc4-4491-429e-872b-da712316ad2d)
 
 ![rs](https://github.com/user-attachments/assets/bae1fe89-ee23-4b1e-8740-0ec5ecc73d00)
